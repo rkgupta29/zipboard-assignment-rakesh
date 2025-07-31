@@ -1,0 +1,45 @@
+{
+	"home": {
+		"greeting": "Hello, world!"
+	},
+	"faq": {
+		"content": [
+			{
+				"question": "How do I improve my website's SEO ranking?",
+				"answer": "To improve SEO ranking, focus on quality content, optimize keywords, ensure mobile responsiveness, and build quality backlinks."
+			},
+			{
+				"question": "What are meta tags and why are they important?",
+				"answer": "Meta tags are HTML elements that provide information about your webpage to search engines. They're crucial for SEO and how your page appears in search results."
+			},
+			{
+				"question": "How long does it take to see SEO results?",
+				"answer": "SEO is a long-term strategy. Typically, it takes 4-6 months to see significant results, but this can vary based on competition and market conditions."
+			},
+			{
+				"question": "How do I set up Google Analytics for my website?",
+				"answer": "Create a Google Analytics account, add the tracking code to your website, and configure your desired tracking parameters."
+			},
+			{
+				"question": "What are the key metrics I should track?",
+				"answer": "Key metrics include page views, bounce rate, session duration, conversion rate, and user demographics."
+			},
+			{
+				"question": "How can I track user behavior on my site?",
+				"answer": "Use features like heat mapping, event tracking, and goal setting to monitor how users interact with your site."
+			},
+			{
+				"question": "How do I create an effective Google Ads campaign?",
+				"answer": "Research keywords, write compelling ad copy, target the right audience, and continuously optimize based on performance data."
+			},
+			{
+				"question": "What is a good cost-per-click (CPC) rate?",
+				"answer": "A good CPC varies by industry, but generally ranges from $1-$2 for B2C and $2-$4 for B2B."
+			},
+			{
+				"question": "How can I improve my ad quality score?",
+				"answer": "Improve quality score by ensuring ad relevance, optimizing landing pages, and maintaining good click-through rates."
+			}
+		]
+	}
+}
